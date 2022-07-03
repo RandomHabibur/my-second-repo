@@ -5,3 +5,7 @@ h1 ,h3{
     border: 1px solid black;
     border-radius: 40px;
 }
+h2{
+    background-color: navajowhite;
+    color: #000;
+}
